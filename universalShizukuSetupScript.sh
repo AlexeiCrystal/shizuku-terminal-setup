@@ -7,12 +7,7 @@ echo "Going to home directory..."
 cd ~
 
 echo "Getting terminal package..."
-if [[ "$HOME" == /data/user* ]] then
-  TERMPACKAGE=$(echo "$HOME" | awk -F'/' '{print $5}')
-else
-  TERMPACKAGE=$(echo "$HOME" | awk -F'/' '{print $4}')
-fi
-
+TERMPACKAGE=$(echo "$HOME" | awk -F'/' '{print $4}')
 
 echo "Creating rish script..."
 
