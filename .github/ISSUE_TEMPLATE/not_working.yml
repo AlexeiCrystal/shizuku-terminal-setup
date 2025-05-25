@@ -13,8 +13,7 @@ body:
       label: Logs
       description: Please paste relevant logs or error messages
       placeholder: |
-        Paste logs here...
-        (Include timestamps if available)
+        Paste terminal logs here...
     validations:
       required: true
       
@@ -22,7 +21,7 @@ body:
     attributes:
       label: Terminal Name
       description: Name of the terminal application
-      placeholder: e.g., Termux, JuiceSSH, etc.
+      placeholder: e.g., Termux, MPatcher, etc
     validations:
       required: true
       
@@ -38,7 +37,7 @@ body:
     attributes:
       label: Android Version
       description: Version of Android you're using
-      placeholder: e.g., 13, 12, 11, etc.
+      placeholder: e.g., 12, 11, etc.
     validations:
       required: true
       
@@ -52,12 +51,12 @@ body:
       
   - type: dropdown
     attributes:
-      label: Type
-      description: Select the type of issue
+      label: Script/Command type
+      description: Type of script/command with which the error occurred
       options:
-        - Crash
-        - Performance
-        - UI/UX
+        - Universal
+        - Separate script/command for your terminal
+        - Other
     validations:
       required: true
       
