@@ -8,7 +8,7 @@
 ## Command
 Copy command from [this file](/termuxShizukuSetupCommand.sh)
 
-#### Script
+## Script
 **1.** Download script from [this file](termuxShizukuSetupScript.sh)
 </br>**2.** Copy script to `/data/data/com.termux/files/home`
 </br>For example:
