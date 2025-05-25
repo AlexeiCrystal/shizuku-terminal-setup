@@ -12,7 +12,19 @@
 
 **Command:**</br>
 Copy command from [this file](/universalShizukuSetupCommand.sh)
-</br>
+
+</br>**Script:**</br>
+**1.** Download script from [this file](universalShizukuSetupScript.sh)
+</br>**2.** Copy script to `$HOME`
+</br>For example:
+```Bash
+cp /sdcard/Download/universalShizukuSetupScript.sh $HOME
+```
+**3.** Run script
+</br>For example:
+```Bash
+sh $HOME/universalShizukuSetupScript.sh
+```
 # [Termux](https://termux.dev)
 **Command:**</br>
 Copy command from [this file](/termuxShizukuSetupCommand.sh)</br>
