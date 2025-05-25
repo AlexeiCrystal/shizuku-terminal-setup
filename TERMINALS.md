@@ -5,9 +5,10 @@
 4. If none of the previous options works, open Issue
 
 # Universal
+**Works in most terminals**
 >[!NOTE]
 >
->Works in most terminals
+>**Terminals in which Universal script/command operability is tested:** Termux, TermOne Plus
 
 **Command:**</br>
 Copy command from [this file](/universalShizukuSetupCommand.sh)
