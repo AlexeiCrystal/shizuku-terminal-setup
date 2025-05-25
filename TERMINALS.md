@@ -10,7 +10,7 @@
 >Works in most terminals
 ## Command
 Copy command from [this file](/universalShizukuSetupCommand.sh)
-
+</br>
 # [Termux](https://termux.dev)
 ## Command
 Copy command from [this file](/termuxShizukuSetupCommand.sh)
