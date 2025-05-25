@@ -1,12 +1,12 @@
 echo
-echo "-----Shizuku Terminal Setup 1.0 (Termux)-----" 
+echo "-----Shizuku Terminal Setup 1.0 (Other)-----" 
 echo "             Creator: AlexeiCrystal"
 echo
 
 echo "Going to home directory..."
 cd ~
 
-TERMPACKAGE="your.terminal.package" #Enter your terminal package here
+TERMPACKAGE="your.terminal.package"
 
 echo "Creating rish script..."
 
