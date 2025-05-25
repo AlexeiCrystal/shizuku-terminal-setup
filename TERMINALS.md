@@ -8,14 +8,15 @@
 >[!NOTE]
 >
 >Works in most terminals
-## Command
+
+**Command:**</br>
 Copy command from [this file](/universalShizukuSetupCommand.sh)
 </br>
 # [Termux](https://termux.dev)
-## Command
-Copy command from [this file](/termuxShizukuSetupCommand.sh)
+**Command:**</br>
+Copy command from [this file](/termuxShizukuSetupCommand.sh)</br>
 
-## Script
+**Script:**</br>
 **1.** Download script from [this file](termuxShizukuSetupScript.sh)
 </br>**2.** Copy script to `/data/data/com.termux/files/home`
 </br>For example:
