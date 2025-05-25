@@ -4,6 +4,13 @@
 3. if there is no script/command for your terminal, use a script/command from the "Other" section.
 4. If none of the previous options works, open Issue
 
+# Universal
+>[!NOTE]
+>
+>Works in most terminals
+## Command
+Copy command from [this file](/universalShizukuSetupCommand.sh)
+
 # [Termux](https://termux.dev)
 ## Command
 Copy command from [this file](/termuxShizukuSetupCommand.sh)
