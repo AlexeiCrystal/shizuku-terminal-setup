@@ -14,12 +14,12 @@ Copy the script to a place where the terminal has rights to run scripts. Then ru
 
 # Supported terminals
 ## [Termux](https://termux.dev)
-### Command
+#### Command
 Copy command from [this file](/termuxShizukuSetupCommand.sh)
 
-### Script
+#### Script
 **1.** Download script from [this file](termuxShizukuSetupScript.sh)
-**2.** Copy script to `/data/data/com.termux/files/home`
+</br>**2.** Copy script to `/data/data/com.termux/files/home`
 </br>For example:
 ```Bash
 cp /sdcard/Download/termuxShizukuSetupScript.sh /data/data/com.termux/files/home
