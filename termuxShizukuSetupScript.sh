@@ -1,8 +1,6 @@
 #!/data/data/com.termux/files/usr/bin
 
 cd ~
-mkdir downloads
-cd ~/downloads
 
 echo "Creating rish script..."
 
