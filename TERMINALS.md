@@ -26,6 +26,7 @@ cp /sdcard/Download/universalShizukuSetupScript.sh $HOME
 sh $HOME/universalShizukuSetupScript.sh
 ```
 # [Termux](https://termux.dev)
+*Recommended to use [this package](https://github.com/AlexeiCrystal/termux-shizuku-tools) for Termux*</br></br>
 **Command:**</br>
 Copy command from [this file](/termuxShizukuSetupCommand.sh)</br>
 
